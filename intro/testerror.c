@@ -1,5 +1,6 @@
 #include "apue.h"
 #include <errno.h>
+// man errno 3
 
 int
 main(int argc, char *argv[])
